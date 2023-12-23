@@ -1,17 +1,6 @@
 ---
 layout: default
 ---
-## Summary
-
-Experienced Data Engineer Adept at understanding client data needs and stakeholder requirements, utilizing data and software engineering techniques to *create business* value through data accessibility. 
-
-Proficiency in identifying, acquiring, cleansing, and storing data, while developing reusable *data products* aligned with defined architecture patterns.
-
-Proven ability to work effectively with *cross-disciplinary collaborators and partners* across multiple business entities. 
-
-
----
-
 ## Employment History
 
 ### Autodesk
@@ -73,14 +62,48 @@ Proven ability to work effectively with *cross-disciplinary collaborators and pa
 
 * I actively collaborated with key stakeholders to understand the organization's **data requirements** and challenges. Through in-depth analysis and discussions, I contributed to defining effective data strategies for achieving the data migration goals.
 
-* As a result of these collaborative efforts, *the organization successfully defined data strategies and the roadmap*, facilitating the seamless execution of their data migration.
+---
 
-
-
-
-
+## Skills
 
 ---
+
+### Soft
+
+- Customer-oriented
+- Team Work
+- Problem solving
+
+### Technical
+
+- **Database modeling**: 
+  - Operational 
+  - Data Warehouse
+  - Data Lake.
+  - Data quality
+- **Relational databases**: 
+  - Microsoft SQL Server
+  - MySQL
+  - PostgreSQL.
+- **Data Warehouse databases**: 
+  - Snowflake
+- **General purpose languages**: 
+  - Python
+  - SQL
+- **Data processing Tools**:
+  - Spark (PySpark)
+  - Pandas (Python)
+- **NoSQL databases**: 
+  - MongoDB
+- **Container development**: 
+  - Docker
+- **Infrastructure as a Code**:
+  - Cloudformation
+- **Version control**: 
+  - Git
+- **Cloud Providers**:
+  - Amazon Web Services: S3, Lambda Functions, Batch, DynamoDB, Registry.
+  - Google Cloud : cloud storage, cloud functions, BigQuery.
 
 ## Certifications
 - [MongoDB SI Associate Certification Program]
