@@ -14,7 +14,7 @@ show_social: true
 google_analytics:
 theme: jekyll-theme-minimal
 github:
-  is_project_page: true
+  is_project_page: false
   owner_url: https://github.com/cesarorozcom
   owner_name: cesarorozcom
   repository_url: https://github.com/cesarorozcom/cesarorozcom.github.io
