@@ -23,7 +23,20 @@ layout: default
 
 ---
 - [MongoDB SI Associate Certification Program]
-- [Snowflake hands on Data Warehouse]
+
+### Badges
+<ul class="nav">
+<li class="nav-item">
+<a href="https://achieve.snowflake.com/50487cd8-425d-4013-b40d-991c7654800e#gs.32dpso" class="nav-link" target="_blank">
+<img src="/assets/img/dw.png">
+</a>
+</li>
+<li class="nav-item">
+<a href="https://achieve.snowflake.com/28151ca0-1e51-4130-81f7-55f8d83bc186#gs.32gm3z" class="nav-link" target="_blank">
+<img src="/assets/img/colab.png">
+</a>
+</li>
+</ul>
 
 [//]: # ()
 

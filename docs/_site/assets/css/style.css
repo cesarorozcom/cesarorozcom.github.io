@@ -402,7 +402,12 @@ th {
 }
 
 img {
-  max-width: 100%;
+  max-width: 70%;
+}
+
+.badge {
+  height: auto;
+  width: 60%;
 }
 
 kbd {
