@@ -1,0 +1,54 @@
+Soft:
+  - name: Customer-oriented
+    items:
+      - Empathy
+      - Effective communication
+      - Problem-solving
+  - name: TeamWork
+    items:
+      - Leadership
+      - Multidisciplinary
+Technical:
+  - name: Database modeling
+    items:
+      - Hierarchical data models
+      - Relational data models
+  - name: Data quality
+    items:
+      - Standards
+      - Dimensions of data quality
+  - name: Relational Databases
+    items:
+      - Microsoft SQL Server
+      - MySQL
+      - PostgreSQL
+  - name: Data Warehouse
+    items:
+      - Snowflake
+      - BigQuery
+  - name: NoSQL databases
+    items:
+      - MongoDB
+  - name: General purpose languages
+    items:
+      - Python
+      - SQL
+  - name: Data processing Tools
+    items:
+      - PySpark
+      - Pandas
+  - name: Container development
+    items:
+      - Docker
+  - name: Infrastructure as a Code
+    items:
+      - Cloudformation
+  - name: Version control
+    items:
+      - Git
+  - name: Cloud Providers
+    items:
+      - Amazon Web Services S3, Lambda Functions, Batch, DynamoDB, Registry.
+      - Google Cloud cloud storage, cloud functions, BigQuery.
+
+
