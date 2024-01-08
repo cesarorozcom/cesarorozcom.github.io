@@ -19,6 +19,15 @@ layout: default
   Proficiency in identifying, acquiring, cleansing, and storing data, while developing reusable <b>data products</b> aligned with defined architecture patterns.
   Proven ability to work effectively with <b>cross-disciplinary collaborators and partners</b> across multiple business entities.
 
+## Presentations
+
+<ul>
+<li>
+<h5>El rol del ingeniero de datos en la transformación digital en las empresas</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSp-A2yMMYI?si=wo9vF8FM0Q5e8hVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</li>
+</ul>
+
 ## Certifications
 
 ---
