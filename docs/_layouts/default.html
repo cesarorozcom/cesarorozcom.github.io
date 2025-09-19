@@ -41,13 +41,13 @@
         </ul>
         {% endif %}
         {% if site.data.social-media %}
-
-          {% assign socials = site.data.social-media %}
-          {% for entry in socials %}
-              {% assign key = entry | first %}
-                <a href="{{ socials[key].href }}{{ socials[key].id }}" title="{{ socials[key].title }}"><i class="fa {{ socials[key].fa-icon }}" style="font-size:48px;"></i></a>
-          {% endfor %}
-
+          <div class="social-links">
+            {% assign socials = site.data.social-media %}
+            {% for entry in socials %}
+                {% assign key = entry | first %}
+                  <a href="{{ socials[key].href }}{{ socials[key].id }}" title="{{ socials[key].title }}"><i class="fa {{ socials[key].fa-icon }}" style="font-size:36px; margin: 0 10px;"></i></a>
+            {% endfor %}
+          </div>
         {% endif %}
       </header>
       <section>
